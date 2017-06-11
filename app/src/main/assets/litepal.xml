@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="weather_wood"></dbname>
+    <version value="1"></version>
+    <list>
+        <mapping class="com.example.weatherwood.db.province"></mapping>
+        <mapping class="com.example.weatherwood.db.city"></mapping>
+        <mapping class="com.example.weatherwood.db.county"></mapping>
+    </list>
+</litepal>
